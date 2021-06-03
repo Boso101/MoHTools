@@ -9,7 +9,7 @@ struct Soldier
   int unknownPointer1;
   int unkownPointer2;
   int unkownPointer3;
-  int Variables; //0x0C Variable Pointer to health and stuff
+  Variables* Variables; //0x0C Variable Pointer to health and stuff
   int unknown1;
   int unknown2;
   int unknown3;
