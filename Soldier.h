@@ -6,7 +6,7 @@
 struct Soldier
 {
   
-  Team currentTeam //0x0A
+  Team currentTeam //0x10
   
   
 };
