@@ -1,3 +1,4 @@
+#pragma once
 #include "Team.h"
 #define SOLDIER_SIZE 0xC0
 
