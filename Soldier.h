@@ -1,5 +1,5 @@
 #include "Team.h"
-#define SOLDIER_SIZE 0xA660
+#define SOLDIER_SIZE 0xC0
 
 
 
