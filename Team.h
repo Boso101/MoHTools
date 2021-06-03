@@ -1,7 +1,7 @@
-enum Team
+enum Team : byte
 {
-ALLIED = 1,
-AXIS = 2
+ALLIED = 0x01,
+AXIS = 0x02
   
   
 }
