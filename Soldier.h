@@ -5,11 +5,11 @@
 
 struct Soldier
 {
-  int Variables //0x00 Variable Pointer to health and stuff
+  int unknownPointer 
   int unknownPointer1;
   int unkownPointer2;
   int unkownPointer3;
-  int unkownPointer4;
+  int Variables; //0x0C Variable Pointer to health and stuff
   int unknown1;
   int unknown2;
   int unknown3;
