@@ -19,6 +19,7 @@ struct Soldier
   int unknown5;
   int unknown6;
   Team currentTeam; //0x1E // Just one byte
+  int unkown7
   
   
   
