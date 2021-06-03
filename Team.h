@@ -1,3 +1,4 @@
+#pragma once
 enum Team : byte
 {
 ALLIED = 0x01,
