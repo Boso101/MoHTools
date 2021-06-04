@@ -1,5 +1,7 @@
-#pragma once
 #include "Team.h"
+#include "CollisionFlags.h"
+
+#pragma once
 #define SOLDIER_SIZE 0xA640
 
 
@@ -29,7 +31,7 @@ struct Soldier
   int unknown8;
   int unknown9;
   int unknown10;
-  int collisionFlag; // 0x2DB4 // Controls what this soldier does when bumping into others with this variable (also controls if this soldiers bullets can damage them)
+  CollisionFlags collisionFlag; // 0x2DB4 // Controls what this soldier does when bumping into others with this variable (also controls if this soldiers bullets can damage them)
   
   
   
