@@ -3,7 +3,7 @@
 enum CollisionFlags : int
 {
 NONE = 0xFF,
-ALLIED = 1,
+ALLIED = 5,
 AXIS = 2
 
 
