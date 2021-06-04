@@ -26,6 +26,11 @@ struct Soldier
   float xPos;
   float yPos;
   float zPos;
+  int unknown8;
+  int unknown9;
+  int unknown10;
+  int collisionFlag; // 0x2DB4 // Controls what this soldier does when bumping into others with this variable (also controls if this soldiers bullets can damage them)
+  
   
   
 };
