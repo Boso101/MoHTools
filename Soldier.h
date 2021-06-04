@@ -21,7 +21,7 @@ struct Soldier
   int unknown6;
   Team currentTeam; //0x30 // Just one byte
   int unknown7;
-  char padding_0x2D90[0x2D90];
+  char padding_0x2D90[0x2D90]; // We use this so we can just instantly offset to our coordinate offset because the struct seems so damn big
  //For now just use float for each
   float xPos;
   float yPos;
