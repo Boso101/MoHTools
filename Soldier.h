@@ -1,7 +1,6 @@
+#pragma once
 #include "Team.h"
 #include "CollisionFlags.h"
-
-#pragma once
 #define SOLDIER_SIZE 0xA640
 
 
