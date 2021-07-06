@@ -24,7 +24,7 @@ struct Soldier
   int unknown6; //0x0C
   Team currentTeam; //0x30 // Just one byte controls what the AI counts as friends and enemies // or 0x10
   int unknown7;
-  char padding_0x2D90[0x2D90]; // We use this so we can just instantly offset to our coordinate offset because the struct seems so damn big
+  char padding_0x2D90[0x2D90]; // We use this so we can just instantly offset to our coordinate offset because the struct seems so damn big //TODO: Fix this for new struct
  //For now just use float for each
   float xPos;
   float yPos;
