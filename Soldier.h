@@ -11,7 +11,9 @@ struct Soldier
 //  int unknownPointer1;
 //  int unkownPointer2;
 //  int unkownPointer3;
-//  Variables* variables; //0x0C Variable Pointer to health and stuff
+ char padding_Neg0C[-0x0C];
+ Variables* variables; //0x0C Variable Pointer to health and stuff
+ char padding_base[0x0C];
  // int unknown1;
 //  int unknown2;
 //  int unknown3;
