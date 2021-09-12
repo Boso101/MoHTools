@@ -11,4 +11,4 @@ Hidden Cheats? NTSC
 | Address  | Effect |
 | ------------- | ------------- |
 | 0x20240F6C  | Slowmotion on jump  |
-| Content Cell  | Content Cell  |
+| 0x20240F60 | Invincible Player  |
