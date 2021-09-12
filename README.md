@@ -6,7 +6,7 @@
 
 
 
-Hidden Cheats?
+Hidden Cheats? NTSC
 
 | Address  | Effect |
 | ------------- | ------------- |
