@@ -17,5 +17,6 @@ Hidden Cheats? NTSC
 | 0x20240F80 | Torpedo Shot |
 | 0x20240F88 | Headshot only enemies |
 | 0x20240F8C | Player dies in one shot |
+| 0x20240F90 | Invisible Enemies |
 | 0x20240F6C  | Slowmotion on jump  |
 
