@@ -1,4 +1,4 @@
-class enum PlayerWeapons : byte
+enum PlayerWeapons : byte
 {
  Silenced_Pistol = 8,
  Shotgun = 29,
